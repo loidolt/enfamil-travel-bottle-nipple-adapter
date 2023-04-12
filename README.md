@@ -1,53 +1,48 @@
 ---
 published: true
-status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+status: complete
+date: 11/27/2022
+tags: 3d_printing
+description: Better adapter for Dr. Browns (and similar) baby bottle nipples for Enfamil ready-to-eat travel bottles.
+slug: enfamil-travel-bottle-nipple-adapter
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+
+# Enfamil Travel Bottle Nipple Adapter
+
+Better adapter for Dr. Browns (and similar) baby bottle nipples for Enfamil ready-to-eat travel bottles.
 
 ## Table of Contents
-- [Title](#title)
+
+- [Enfamil Travel Bottle Nipple Adapter](#enfamil-travel-bottle-nipple-adapter)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
+  - [Disclaimer](#disclaimer)
+  - [Print Settings](#print-settings)
   - [Usage](#usage)
-  - [Notes](#notes)
-  - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+Fed up with leaky bottle adapters available on Amazon, and not willing to use the disposable version provided by Enfamil themselves (sold separately to add insult to injury), I designed this simple adapter part.
+
+Compared to the commercial versions it is much stiffer, has a tighter thread tolerance, and a shorter depth of threads to ensure the nipple seals well before the threads bottom out.
+
+Say goodbye to leaks and wet onesies, you and your baby deserve better!
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+- Fusion 360
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+## Disclaimer
+
+If printed and used properly, no formula or milk should come in contact with this part since the seal is provided between the nipple and the bottle only.
+
+While I believe this to be a safe object to use I take no responsibility for anything that may happen to you or your kids while using this part. No warranty is given and no guarantee of safety is provided. By printing and using this part you take full responsibility for what may happen by exposing your child to 3D-printed plastic and any downstream repercussions.
+
+## Print Settings
+
+Use a food-safe plastic like PLA or PETG for safety, I recommend PETG so you don't have to worry about the temperature limits with PLA.
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+Simply snap any Dr. Browns bottle nipple (or similar) into the cap and screw on onto the travel bottle. Ensure the nipple is fully seated into the cap to prevent leaks.
